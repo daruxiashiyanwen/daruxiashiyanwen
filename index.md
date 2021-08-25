@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![微信图片_20201222171559](https://user-images.githubusercontent.com/87750467/130753480-0625dc68-2768-4bd6-9853-08f19d1b7c73.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
